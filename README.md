@@ -1,3 +1,9 @@
+This program is for the second question.
+backend: npm run start-server
+frontend: npm run fetch-categories
+
+port: 8080
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
