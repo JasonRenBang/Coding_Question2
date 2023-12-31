@@ -1,8 +1,9 @@
-This program is for the second question.
 backend: npm run start-server
 frontend: npm run fetch-categories
 
 port: 8080
+
+To achieve the task of creating a RESTful server and a frontend function for your e-commerce app, divide the work into two main parts: setting up the server and creating the frontend function.
 
 # Getting Started with Create React App
 
